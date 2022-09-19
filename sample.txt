@@ -1,2 +1,4 @@
-sample file
-Demo
+int main()
+{
+    printf("This is my hello world program");
+}
